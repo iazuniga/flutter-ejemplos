@@ -1,6 +1,9 @@
 # app_random_words
 
-A new Flutter project.
+> Original, reproducido y modificado con fines didácticos:
+* Parte 1: https://esflutter.dev/docs/get-started/codelab
+* Parte 2: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#3
+
 
 ## Getting Started
 
