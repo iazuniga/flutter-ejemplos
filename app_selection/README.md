@@ -1,6 +1,7 @@
 # app_selection
 
-A new Flutter project.
+> Original, reproducido y modificado con fines didácticos:
+* https://esflutter.dev/docs/development/ui/interactive
 
 ## Getting Started
 
