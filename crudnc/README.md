@@ -4,9 +4,8 @@
 > Original, reproducido y modificado con fines didácticos:
 * https://youtu.be/D43XZZMtSHo
 * https://github.com/AdnanKhan45/Flutter-Firebase-Auth
-* Delete:
-** https://youtu.be/11yF1yenhTk
-* https://youtu.be/fqtom3ove_U
+* Delete: https://youtu.be/11yF1yenhTk
+* Obtener SHA-1 Key en Visual Studio Code: https://youtu.be/fqtom3ove_U
 
 
 ## Getting Started
