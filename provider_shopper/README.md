@@ -4,7 +4,7 @@ A Flutter sample app that shows a state management approach using the [Provider]
 This is the app discussed in the [Simple app state management][simple] section of
 [flutter.dev][].
 
-![An animated gif of the app in action](https://camo.githubusercontent.com/cf301d68c65279a074aa3334ef7fff548f87c0e2/68747470733a2f2f666c75747465722e6465762f6173736574732f646576656c6f706d656e742f646174612d616e642d6261636b656e642f73746174652d6d676d742f6d6f64656c2d73686f707065722d73637265656e636173742d653061646130653833636438653766646361643834313637623866376666643765623565663835623063623839353766303363366630356264313662316365612e676966)
+![An animated gif of the app in action](https://esflutter.dev/assets/development/data-and-backend/state-mgmt/model-shopper-screencast-e0ada0e83cd8e7fdcad84167b8f7ffd7eb5ef85b0cb8957f03c6f05bd16b1cea.gif)
 
 https://esflutter.dev/assets/development/data-and-backend/state-mgmt/model-shopper-screencast-e0ada0e83cd8e7fdcad84167b8f7ffd7eb5ef85b0cb8957f03c6f05bd16b1cea.gif
 
