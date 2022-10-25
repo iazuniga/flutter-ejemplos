@@ -1,6 +1,8 @@
 # crudn
 
-A new Flutter project.
+> Original, reproducido y modificado con fines didácticos:
+* https://github.com/AdnanKhan45/Flutter-Firebase-CRUD
+* https://youtu.be/0IeTYx_q3Jo
 
 ## Getting Started
 
