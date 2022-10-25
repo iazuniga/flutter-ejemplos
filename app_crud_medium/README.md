@@ -1,6 +1,11 @@
 # app_crud_medium
 
-A new Flutter project.
+> Original:
+* https://www.tutorjoes.in/flutter_framework_tutorial/CRUD_operation_using_Flutter_and_SQLite_in_flutter
+https://youtu.be/WC8Ue3PPk70
+https://www.tutorjoes.in/flutter_program/lib.zip
+https://github.com/TutorJoes-Stanley/crud_sqlite_joes
+
 
 ## Getting Started
 
