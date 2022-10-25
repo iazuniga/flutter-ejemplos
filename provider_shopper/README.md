@@ -1,5 +1,9 @@
 # provider_shopper
 
+> Original, reproducido y modificado con fines didácticos:
+* https://esflutter.dev/docs/development/data-and-backend/state-mgmt/simple
+* https://github.com/filiph/samples/tree/main/provider_shopper
+
 A Flutter sample app that shows a state management approach using the [Provider][] package.
 This is the app discussed in the [Simple app state management][simple] section of
 [flutter.dev][].
