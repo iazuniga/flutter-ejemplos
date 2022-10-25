@@ -1,5 +1,6 @@
 # auth_example
 
+> Original, reproducido y modificado con fines didácticos:
 * https://youtu.be/n0-RLyBxhu0
 * https://github.com/astudilloalex/flutter-getx-email-sign-in
 
