@@ -1,7 +1,8 @@
 # app_crud_basic
 
 
-Original, reproducido y modificado con fines didácticos: https://www.kindacode.com/article/flutter-sqlite/
+> Original, reproducido y modificado con fines didácticos: 
+* https://www.kindacode.com/article/flutter-sqlite/
 
 
 ## Getting Started
