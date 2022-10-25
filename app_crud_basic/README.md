@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Original, reproducido y modificado con fines didácticos: https://www.kindacode.com/article/flutter-sqlite/
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
