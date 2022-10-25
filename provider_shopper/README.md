@@ -6,10 +6,6 @@ This is the app discussed in the [Simple app state management][simple] section o
 
 ![An animated gif of the app in action](https://esflutter.dev/assets/development/data-and-backend/state-mgmt/model-shopper-screencast-e0ada0e83cd8e7fdcad84167b8f7ffd7eb5ef85b0cb8957f03c6f05bd16b1cea.gif)
 
-https://esflutter.dev/assets/development/data-and-backend/state-mgmt/model-shopper-screencast-e0ada0e83cd8e7fdcad84167b8f7ffd7eb5ef85b0cb8957f03c6f05bd16b1cea.gif
-
-https://esflutter.dev/assets/development/data-and-backend/state-mgmt/model-shopper-screencast-e0ada0e83cd8e7fdcad84167b8f7ffd7eb5ef85b0cb8957f03c6f05bd16b1cea.gif
-
 [Provider]: https://pub.dev/packages/provider
 [simple]: https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
 [flutter.dev]: https://flutter.dev/
