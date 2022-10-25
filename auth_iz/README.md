@@ -1,6 +1,8 @@
 # auth_example
 
-A new Flutter project.
+* https://youtu.be/n0-RLyBxhu0
+* https://github.com/astudilloalex/flutter-getx-email-sign-in
+
 
 ## Getting Started
 
