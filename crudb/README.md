@@ -1,6 +1,8 @@
 # crudb
 
-A new Flutter project.
+
+> Original, reproducido y modificado con fines didácticos:
+* https://youtu.be/Hqq7xhiojr4
 
 ## Getting Started
 
