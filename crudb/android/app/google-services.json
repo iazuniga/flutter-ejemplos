@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210242086678",
+    "project_id": "crudb-2da57",
+    "storage_bucket": "crudb-2da57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210242086678:android:5bbb061c7e37942f795237",
+        "android_client_info": {
+          "package_name": "com.iz.crudb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210242086678-fm80hrkvcpfthtah4amsl4rj4rra3mnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-G6crN3_FuIkRQlHdALk6Bqx5iYBluM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210242086678-fm80hrkvcpfthtah4amsl4rj4rra3mnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
