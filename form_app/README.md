@@ -1,4 +1,6 @@
 # form_app
+>Original, reproducido y modificado con fines didácticos:
+* https://github.com/filiph/samples/tree/main/form_app
 
 A sample demonstrating different types of forms and best practices.
 
