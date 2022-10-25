@@ -1,6 +1,6 @@
 # app_crud_medium
 
-> Original:
+> Original, reproducido y modificado con fines didácticos:
 * https://www.tutorjoes.in/flutter_framework_tutorial/CRUD_operation_using_Flutter_and_SQLite_in_flutter
 * https://youtu.be/WC8Ue3PPk70
 * https://www.tutorjoes.in/flutter_program/lib.zip
