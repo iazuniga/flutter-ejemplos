@@ -1,6 +1,5 @@
 # app_crud_basic
 
-A new Flutter project.
 
 Original, reproducido y modificado con fines didácticos: https://www.kindacode.com/article/flutter-sqlite/
 
