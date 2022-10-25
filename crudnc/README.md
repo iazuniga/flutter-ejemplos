@@ -1,6 +1,13 @@
 # crudnc
 
-A new Flutter project.
+
+> Original, reproducido y modificado con fines didácticos:
+* https://youtu.be/D43XZZMtSHo
+* https://github.com/AdnanKhan45/Flutter-Firebase-Auth
+* Delete:
+** https://youtu.be/11yF1yenhTk
+* https://youtu.be/fqtom3ove_U
+
 
 ## Getting Started
 
