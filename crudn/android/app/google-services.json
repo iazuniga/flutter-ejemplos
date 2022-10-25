@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195024174097",
+    "project_id": "crudn-93fa9",
+    "storage_bucket": "crudn-93fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195024174097:android:79d54d1b449656f3ca45b0",
+        "android_client_info": {
+          "package_name": "com.iz.crudn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195024174097-drg9r77jov0v4jh9ie2qbqrbkl2f2fb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCHLVuSFhd-jt3fDEMFc2I7h82XEReEyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195024174097-drg9r77jov0v4jh9ie2qbqrbkl2f2fb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
