@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211627554648",
+    "project_id": "crudnc",
+    "storage_bucket": "crudnc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211627554648:android:839da0c7d5376fab77972d",
+        "android_client_info": {
+          "package_name": "com.iz.crudnc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211627554648-m2fnd103hs57dau5t7mg2856ndhk8b3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7-b_6mfWYl0NJRMImWhRRDHPkxtgFr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211627554648-m2fnd103hs57dau5t7mg2856ndhk8b3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
